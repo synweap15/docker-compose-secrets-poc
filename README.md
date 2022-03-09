@@ -1,0 +1,1 @@
+Test with `docker-compose up --build`
